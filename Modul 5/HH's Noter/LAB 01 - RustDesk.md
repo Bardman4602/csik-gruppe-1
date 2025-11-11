@@ -20,7 +20,7 @@ LÆS alt igennem først og især [[#📝 Del 6 Dokumentation og Rapport]] inden 
 
 ## Læringsmål
 
-jrk
+jrka
 
 Efter gennemførelse af denne lab vil du kunne:
 
