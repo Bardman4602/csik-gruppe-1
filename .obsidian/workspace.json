@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "975fd220f265d274",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1f8b76087d796ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d2f9726461472a0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9ee4f8a0065e7569",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6f027446ffdc009",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3a00344763da0a2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5256497d16d60b12",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e3d22caf7e476833",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "11e096a027546d80",
+    "type": "split",
+    "children": [
+      {
+        "id": "93ace6d580a87069",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e57bbf941528ee8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "e55fad91b7486fc7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "373feec5ecf6a5d1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "18dd60373637ed3e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "7d2f9726461472a0",
+  "lastOpenFiles": [
+    "Modul 6/1. Modul 6 - Lab Linux.md",
+    "Modul 6",
+    "Modul 5/pfSenseVPN-UDP4-10160-IT-Sikkerhed-E25-config/pfSenseVPN-UDP4-10160-IT-Sikkerhed-E25-config.ovpn",
+    "Modul 5/HH's Noter/Proxmox_login-realm.png",
+    "Modul 5/HH's Noter/OpenVPN-icon_win11-dock.png",
+    "Modul 5/HH's Noter/LAB 01 - RustDesk.md",
+    "Modul 5/HH's Noter/LAB 00 - VPN.md",
+    "Modul 5/pfSenseVPN-UDP4-10160-IT-Sikkerhed-E25-config",
+    "Modul 5/HH's Noter",
+    "Modul 5/1. N-ark Modul 5 - Intro til lab.md",
+    "Modul 5",
+    "Modul 3 - Porte, protokoller og IPv4-adresser/attachments/Spørgsmål2.png",
+    "Modul 3 - Porte, protokoller og IPv4-adresser/attachments/Spørgsmål1.png",
+    "Modul 3 - Porte, protokoller og IPv4-adresser/attachments/PingNathan2.png",
+    "Modul 3 - Porte, protokoller og IPv4-adresser/attachments/PingGeneralFailure.png",
+    "Modul 3 - Porte, protokoller og IPv4-adresser/attachments/Ping2.png",
+    "Modul 3 - Porte, protokoller og IPv4-adresser/attachments/Pasted image 20250916104142.png",
+    "Modul 3 - Porte, protokoller og IPv4-adresser/attachments/OpsamlingSpørgsmål1.png",
+    "Modul 3 - Porte, protokoller og IPv4-adresser/attachments/IPConfig2.png",
+    "Modul 3 - Porte, protokoller og IPv4-adresser/Modul 3 - Porte, Protokoller og IPv4 adresser.md",
+    "Modul 3 - Porte, protokoller og IPv4-adresser/First Lab Opgave.md",
+    "Modul 3 - Porte, protokoller og IPv4-adresser/attachments",
+    "Modul 3 - Porte, protokoller og IPv4-adresser/01_lab_Your_first_network_DK.pdf",
+    "Modul 3 - Porte, protokoller og IPv4-adresser",
+    "Modul 2/Nøglebegreber til Kap 2 (Network topologies and types).md",
+    "Modul 2/Nøglebegreber til Kap 1 (OSI, TCP, IP).md",
+    "Modul 2/N-ark M2 RFC Opgave.md",
+    "Modul 2/M2 - network concepts.pptx",
+    "Modul 2/M2 - network concepts.pdf",
+    "Modul 2/Framing (data-link laget) (over-entusiastisk AI).md",
+    "Modul 2/Besvarelse  RFC opgave 1.2.md",
+    "Modul 2/1. M2 - Networking concepts.md",
+    "Modul 1/Opgave 2.md",
+    "Modul 1/Opgave 1.md",
+    "Modul 1/Modul 1 - Introduktion til faget.md"
+  ]
+}
