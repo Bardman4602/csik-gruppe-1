@@ -14,7 +14,7 @@
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Ny fane"
             }
           }
         ]
@@ -40,7 +40,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Stifinder"
             }
           },
           {
@@ -136,79 +136,79 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Modul 5/HH's Noter/LAB 01 - RustDesk.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of LAB 01 - RustDesk"
+              "title": "Outline"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Åbn hurtig skifter": false,
+      "graph:Åbn grafvisning": false,
+      "canvas:Opret nyt lærred": false,
+      "daily-notes:Åbn dagens note": false,
+      "templates:Indsæt skabelon": false,
+      "command-palette:Åbn fastgjorte kommandoer": false,
+      "bases:Opret ny base": false
     }
   },
-  "active": "c3a00344763da0a2",
+  "active": "7d2f9726461472a0",
   "lastOpenFiles": [
+    "Programmering/Modul 2/attachments/Opg 1.png",
     "Programmering/Modul 2/attachments/Syntaks-træ.png",
     "Programmering/Modul 2/attachments/slides02.pdf",
-    "Programmering/Modul 2/attachments/Pasted image 20250910170630.png",
-    "Programmering/Modul 2/attachments/Opg 1.png",
     "Programmering/Modul 2/attachments/samarbejdsstrukturer02.pdf",
+    "Programmering/Modul 2/attachments/Pasted image 20250910170630.png",
     "Programmering/Modul 2/attachments/IMG20250911092653.jpg",
     "Programmering/Modul 3/slides03.pdf",
-    "Programmering/Modul 3/samarbejdsstrukturer03.pdf",
-    "Programmering/Modul 3/Programmering modul 3.md",
-    "Programmering/Modul 3/Gruppearbejde.md",
-    "Programmering/Modul 1/slides01.pdf",
-    "Programmering/Modul 1/Codelabby profil link.md",
-    "Programmering/Modul 1/Imperativ Programmering 1.md",
     "Programmering/Modul 5/vektor-kodeskabelon.pdf",
-    "Programmering/Modul 5/slides05.pdf",
     "Programmering/Modul 5/1. Modul 5 - Vektorer og tekst.md",
+    "Programmering/Modul 5/slides05.pdf",
     "Programmering/Modul 2/Programmering M2 Opg 2.md",
     "Programmering/Modul 2/Programmering M2 Opg 1.md",
+    "Programmering/Modul 3/Gruppearbejde.md",
     "Programmering/Modul 2/Imperativ Programmering 2.md",
     "Programmering/Modul 2/attachments",
-    "Programmering/Modul 3",
+    "Programmering/Modul 3/samarbejdsstrukturer03.pdf",
+    "Programmering/Modul 3/Programmering modul 3.md",
+    "Programmering/Modul 1/slides01.pdf",
+    "Programmering/Modul 1/Imperativ Programmering 1.md",
+    "Programmering/Modul 1/Codelabby profil link.md",
     "Programmering/Modul 5",
-    "Computerarkitektur/Modul 4/Invaders/titlescreen.bmp",
-    "Computerarkitektur/Modul 4/Invaders/saucer.bmp",
-    "Computerarkitektur/Modul 4/Invaders/player.bmp",
-    "Computerarkitektur/Modul 4/Invaders/invaders.bmp",
-    "Computerarkitektur/Modul 4/Invaders/gameover.bmp",
-    "Computerarkitektur/Modul 4/Invaders/damagetop.bmp",
-    "Computerarkitektur/Modul 4/Invaders/damage.bmp",
-    "Computerarkitektur/Modul 4/Øvelse 2.md",
-    "Computerarkitektur/Modul 4/Øvelse 1.md",
-    "Computerarkitektur/Modul 4/Modul 4 - Signaler og protokoller.md",
-    "Computerarkitektur/Modul 3/Computerarkitektur Modul 3 - Filsystemer.md",
-    "Computerarkitektur/Modul 2/Computerarkitektur Modul 2 - Talsystemer.md",
-    "Computerarkitektur/Modul 2/C-Ark Modul 2 Opgave 2.md",
-    "Computerarkitektur/Modul 2/C-Ark Modul 2 Opgave 1.md",
-    "Computerarkitektur/Modul 1.5/Modul 1.5 - von Neumann arkitektur.md",
-    "Computerarkitektur/Modul 1/Modul 1 - Intro.md",
+    "Programmering/Modul 2",
     "Netværksarkitektur/Modul 6/1. Modul 6 - Lab Linux.md",
+    "Netværksarkitektur/Modul 5/HH's Noter/OpenVPN-icon_win11-dock.png",
+    "Netværksarkitektur/Modul 5/HH's Noter/Proxmox_login-realm.png",
     "Netværksarkitektur/Modul 5/HH's Noter/LAB 01 - RustDesk.md",
     "Netværksarkitektur/Modul 5/HH's Noter/LAB 00 - VPN.md",
     "Netværksarkitektur/Modul 5/1. N-ark Modul 5 - Intro til lab.md",
+    "Netværksarkitektur/Modul 3 - Porte, protokoller og IPv4-adresser/attachments/Spørgsmål2.png",
+    "Netværksarkitektur/Modul 3 - Porte, protokoller og IPv4-adresser/attachments/Spørgsmål1.png",
+    "Netværksarkitektur/Modul 3 - Porte, protokoller og IPv4-adresser/attachments/OpsamlingSpørgsmål1.png",
+    "Netværksarkitektur/Modul 3 - Porte, protokoller og IPv4-adresser/attachments/PingNathan2.png",
+    "Netværksarkitektur/Modul 3 - Porte, protokoller og IPv4-adresser/attachments/PingGeneralFailure.png",
     "Netværksarkitektur/Modul 3 - Porte, protokoller og IPv4-adresser/Modul 3 - Porte, Protokoller og IPv4 adresser.md",
     "Netværksarkitektur/Modul 3 - Porte, protokoller og IPv4-adresser/First Lab Opgave.md",
     "Netværksarkitektur/Modul 2/Nøglebegreber til Kap 2 (Network topologies and types).md",
-    "Netværksarkitektur/Modul 2/Nøglebegreber til Kap 1 (OSI, TCP, IP).md"
+    "Netværksarkitektur/Modul 2/Nøglebegreber til Kap 1 (OSI, TCP, IP).md",
+    "Netværksarkitektur/Modul 2/N-ark M2 RFC Opgave.md",
+    "Netværksarkitektur/Modul 2/Framing (data-link laget) (over-entusiastisk AI).md",
+    "Netværksarkitektur/Modul 2/Besvarelse  RFC opgave 1.2.md",
+    "Netværksarkitektur/Modul 2/1. M2 - Networking concepts.md",
+    "Netværksarkitektur/Modul 1/Opgave 1.md",
+    "Netværksarkitektur/Modul 1/Opgave 2.md",
+    "Netværksarkitektur/Modul 1/Modul 1 - Introduktion til faget.md",
+    "Forretningsforståelse/Modul 9 - Modenhedsanalyse/FF Modul 9 Opgave 2.md",
+    "Forretningsforståelse/Modul 9 - Modenhedsanalyse/FF Modul 9 Opgave 1.md"
   ]
 }
