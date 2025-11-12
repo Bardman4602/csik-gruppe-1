@@ -8,35 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7d2f9726461472a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Modul 5/HH's Noter/LAB 01 - RustDesk.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LAB 01 - RustDesk"
-            }
-          },
-          {
             "id": "f1dc80530417df6d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Modul 5/HH's Noter/LAB 01 - RustDesk.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "LAB 01 - RustDesk"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,41 +164,51 @@
   },
   "active": "f1dc80530417df6d",
   "lastOpenFiles": [
-    "test obsidian.md",
-    "Modul 5/HH's Noter/LAB 01 - RustDesk.md",
-    "Modul 3 - Porte, protokoller og IPv4-adresser/01_lab_Your_first_network_DK.pdf",
-    "Modul 6/1. Modul 6 - Lab Linux.md",
-    "Modul 6",
-    "Modul 5/pfSenseVPN-UDP4-10160-IT-Sikkerhed-E25-config/pfSenseVPN-UDP4-10160-IT-Sikkerhed-E25-config.ovpn",
-    "Modul 5/HH's Noter/Proxmox_login-realm.png",
-    "Modul 5/HH's Noter/OpenVPN-icon_win11-dock.png",
-    "Modul 5/HH's Noter/LAB 00 - VPN.md",
-    "Modul 5/pfSenseVPN-UDP4-10160-IT-Sikkerhed-E25-config",
-    "Modul 5/HH's Noter",
-    "Modul 5/1. N-ark Modul 5 - Intro til lab.md",
-    "Modul 5",
-    "Modul 3 - Porte, protokoller og IPv4-adresser/attachments/Spørgsmål2.png",
-    "Modul 3 - Porte, protokoller og IPv4-adresser/attachments/Spørgsmål1.png",
-    "Modul 3 - Porte, protokoller og IPv4-adresser/attachments/PingNathan2.png",
-    "Modul 3 - Porte, protokoller og IPv4-adresser/attachments/PingGeneralFailure.png",
-    "Modul 3 - Porte, protokoller og IPv4-adresser/attachments/Ping2.png",
-    "Modul 3 - Porte, protokoller og IPv4-adresser/attachments/Pasted image 20250916104142.png",
-    "Modul 3 - Porte, protokoller og IPv4-adresser/attachments/OpsamlingSpørgsmål1.png",
-    "Modul 3 - Porte, protokoller og IPv4-adresser/attachments/IPConfig2.png",
-    "Modul 3 - Porte, protokoller og IPv4-adresser/Modul 3 - Porte, Protokoller og IPv4 adresser.md",
-    "Modul 3 - Porte, protokoller og IPv4-adresser/First Lab Opgave.md",
-    "Modul 3 - Porte, protokoller og IPv4-adresser/attachments",
-    "Modul 3 - Porte, protokoller og IPv4-adresser",
-    "Modul 2/Nøglebegreber til Kap 2 (Network topologies and types).md",
-    "Modul 2/Nøglebegreber til Kap 1 (OSI, TCP, IP).md",
-    "Modul 2/N-ark M2 RFC Opgave.md",
-    "Modul 2/M2 - network concepts.pptx",
-    "Modul 2/M2 - network concepts.pdf",
-    "Modul 2/Framing (data-link laget) (over-entusiastisk AI).md",
-    "Modul 2/Besvarelse  RFC opgave 1.2.md",
-    "Modul 2/1. M2 - Networking concepts.md",
-    "Modul 1/Opgave 2.md",
-    "Modul 1/Opgave 1.md",
-    "Modul 1/Modul 1 - Introduktion til faget.md"
+    "Forretningsforståelse/Modul 3 - Processanalyse/~$Modul 3 Proces (CANVAS).pptx",
+    "Programmering/Modul 2/attachments/Syntaks-træ.png",
+    "Programmering/Modul 2/attachments/slides02.pdf",
+    "Programmering/Modul 2/attachments/samarbejdsstrukturer02.pdf",
+    "Programmering/Modul 2/attachments/Pasted image 20250910170630.png",
+    "Programmering/Modul 2/attachments/Opg 1.png",
+    "Programmering/Modul 2/attachments/IMG20250911092653.jpg",
+    "Programmering/Modul 5/vektor-kodeskabelon.pdf",
+    "Programmering/Modul 5/slides05.pdf",
+    "Programmering/Modul 5/1. Modul 5 - Vektorer og tekst.md",
+    "Programmering/Modul 3/slides03.pdf",
+    "Programmering/Modul 3/samarbejdsstrukturer03.pdf",
+    "Programmering/Modul 3/Programmering modul 3.md",
+    "Programmering/Modul 3/Gruppearbejde.md",
+    "Programmering/Modul 2/Programmering M2 Opg 2.md",
+    "Programmering/Modul 2/Programmering M2 Opg 1.md",
+    "Programmering/Modul 2/Imperativ Programmering 2.md",
+    "Programmering/Modul 2/attachments",
+    "Programmering/Modul 1/slides01.pdf",
+    "Programmering/Modul 1/Imperativ Programmering 1.md",
+    "Programmering/Modul 1/Codelabby profil link.md",
+    "Programmering/Modul 5",
+    "Programmering/Modul 3",
+    "Netværksarkitektur/Modul 6/1. Modul 6 - Lab Linux.md",
+    "Netværksarkitektur/Modul 5/HH's Noter/Proxmox_login-realm.png",
+    "Netværksarkitektur/Modul 5/HH's Noter/LAB 01 - RustDesk.md",
+    "Netværksarkitektur/Modul 5/HH's Noter/OpenVPN-icon_win11-dock.png",
+    "Netværksarkitektur/Modul 5/HH's Noter/LAB 00 - VPN.md",
+    "Netværksarkitektur/Modul 5/1. N-ark Modul 5 - Intro til lab.md",
+    "Netværksarkitektur/Modul 3 - Porte, protokoller og IPv4-adresser/attachments/Spørgsmål2.png",
+    "Netværksarkitektur/Modul 3 - Porte, protokoller og IPv4-adresser/attachments/Spørgsmål1.png",
+    "Netværksarkitektur/Modul 3 - Porte, protokoller og IPv4-adresser/attachments/Ping2.png",
+    "Netværksarkitektur/Modul 3 - Porte, protokoller og IPv4-adresser/attachments/PingNathan2.png",
+    "Netværksarkitektur/Modul 3 - Porte, protokoller og IPv4-adresser/Modul 3 - Porte, Protokoller og IPv4 adresser.md",
+    "Netværksarkitektur/Modul 3 - Porte, protokoller og IPv4-adresser/First Lab Opgave.md",
+    "Netværksarkitektur/Modul 2/Nøglebegreber til Kap 2 (Network topologies and types).md",
+    "Netværksarkitektur/Modul 2/Nøglebegreber til Kap 1 (OSI, TCP, IP).md",
+    "Netværksarkitektur/Modul 2/N-ark M2 RFC Opgave.md",
+    "Netværksarkitektur/Modul 2/Framing (data-link laget) (over-entusiastisk AI).md",
+    "Netværksarkitektur/Modul 2/Besvarelse  RFC opgave 1.2.md",
+    "Netværksarkitektur/Modul 2/1. M2 - Networking concepts.md",
+    "Netværksarkitektur/Modul 1/Opgave 2.md",
+    "Netværksarkitektur/Modul 1/Opgave 1.md",
+    "Netværksarkitektur/Modul 1/Modul 1 - Introduktion til faget.md",
+    "Forretningsforståelse/Modul 9 - Modenhedsanalyse/FF Modul 9 Opgave 2.md",
+    "Forretningsforståelse/Modul 9 - Modenhedsanalyse/FF Modul 9 Opgave 1.md"
   ]
 }

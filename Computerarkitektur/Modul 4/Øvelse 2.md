@@ -1,0 +1,2 @@
+#csik #computerarkitektur #opgaver 
+
