@@ -185,3 +185,4 @@ Selvom opgaver ikke beskrives, fremgår fokusområderne tydeligt:
 - For at forstå moderne angreb, skal man kunne læse trafik *lag for lag*.  
 - Korrekt kabling, rammeformat og protokolforståelse = forudsætning for fejlfinding.  
 
+[[Opgaver]]
