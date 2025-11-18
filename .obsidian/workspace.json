@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forretningsforståelse/Modul 11 - Risikoanalyse/FF Modul 11 Opgave 3.md",
+                "file": "Computerarkitektur/Modul 5/Modul 5 - Seriel Kommunikation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FF Modul 11 Opgave 3"
-            }
-          },
-          {
-            "id": "2031f42c59253f2f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Computerarkitektur/Modul 5/Øvelse 5.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Øvelse 5"
+              "title": "Modul 5 - Seriel Kommunikation"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Stifinder"
+              "title": "Files"
             }
           },
           {
@@ -170,23 +157,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Åbn hurtig skifter": false,
-      "graph:Åbn grafvisning": false,
-      "canvas:Opret nyt lærred": false,
-      "daily-notes:Åbn dagens note": false,
-      "templates:Indsæt skabelon": false,
-      "command-palette:Åbn fastgjorte kommandoer": false,
-      "bases:Opret ny base": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "2031f42c59253f2f",
+  "active": "c3a00344763da0a2",
   "lastOpenFiles": [
-    "Computerarkitektur/Modul 5/Modul 5 - Seriel Kommunikation.md",
-    "Forretningsforståelse/Modul 11 - Risikoanalyse/FF Modul 11 Opgave 2.md",
-    "Forretningsforståelse/Modul 11 - Risikoanalyse/FF Modul 11 - Hjemmeopgave.md",
-    "Forretningsforståelse/Modul 11 - Risikoanalyse/attachments/FF Modul 11 Opgave 3-2.png",
+    "Netværksarkitektur/Modul 7/Modul 7 - Netværksanalyse.md",
+    "Netværksarkitektur/Modul 7/CSIK-network-analyse.pptx",
+    "Netværksarkitektur/Modul 7",
+    "Computerarkitektur/Modul 5/serial_com_v2.py",
     "Forretningsforståelse/Modul 11 - Risikoanalyse/vejledning_til_risikostyring-_nden_for_informationssikkerhed_2020.pdf",
     "Forretningsforståelse/Modul 11 - Risikoanalyse/attachments/FF Modul 11 Opgave 3.png",
+    "Forretningsforståelse/Modul 11 - Risikoanalyse/attachments/FF Modul 11 Opgave 3-2.png",
     "Forretningsforståelse/Modul 11 - Risikoanalyse/attachments/FF Modul 11 Opgave 3-1.png",
     "Forretningsforståelse/Modul 11 - Risikoanalyse/attachments/FF Modul 11 Opgave 2.png",
     "Forretningsforståelse/Modul 11 - Risikoanalyse/attachments/FF Modul 11 Opgave 2-3.png",
@@ -199,14 +187,13 @@
     "Forretningsforståelse/Modul 11 - Risikoanalyse/RisknonV1.xlsm",
     "Forretningsforståelse/Modul 11 - Risikoanalyse/Modul 11 - Risiko.pptx",
     "Forretningsforståelse/Modul 11 - Risikoanalyse/FF Modul 11 Opgave 3.md",
+    "Forretningsforståelse/Modul 11 - Risikoanalyse/FF Modul 11 Opgave 2.md",
     "Forretningsforståelse/Modul 11 - Risikoanalyse/FF Modul 11 Opgave 1.md",
+    "Forretningsforståelse/Modul 11 - Risikoanalyse/FF Modul 11 - Hjemmeopgave.md",
     "Forretningsforståelse/Modul 11 - Risikoanalyse/1. Modul 11 - Risikoanalyse.md",
     "Forretningsforståelse/Modul 11 - Risikoanalyse",
     "Programmering/Modul 2/attachments/Opg 1.png",
     "Programmering/Modul 2/attachments/slides02.pdf",
-    "Programmering/Modul 2/attachments/samarbejdsstrukturer02.pdf",
-    "Programmering/Modul 3/slides03.pdf",
-    "Programmering/Modul 5/vektor-kodeskabelon.pdf",
     "Programmering/Modul 5/1. Modul 5 - Vektorer og tekst.md",
     "Programmering/Modul 2/Programmering M2 Opg 2.md",
     "Programmering/Modul 2/Programmering M2 Opg 1.md",
