@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computerarkitektur/Modul 5/Modul 5 - Seriel Kommunikation.md",
+                "file": "Netværksarkitektur/Modul 7/Besvarelse.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modul 5 - Seriel Kommunikation"
+              "title": "Besvarelse"
             }
           }
         ]
@@ -166,18 +166,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "c3a00344763da0a2",
+  "active": "7d2f9726461472a0",
   "lastOpenFiles": [
+    "Netværksarkitektur/Modul 7/Opgaver.md",
+    "Netværksarkitektur/Modul 7/Modul 7 - Netværksanalyse.md",
+    "Computerarkitektur/Modul 5/Modul 5 - Seriel Kommunikation.md",
     "Netværksarkitektur/Modul 7/attachments/Besvarelse.png",
     "Netværksarkitektur/Modul 7/attachments",
-    "Netværksarkitektur/Modul 7/Opgaver.md",
     "Netværksarkitektur/Modul 7/icmp_s_20.pcap",
     "Netværksarkitektur/Modul 7/icmp_s_10.pcap",
     "Netværksarkitektur/Modul 7/Gruppe1Captures.pcapng",
     "Netværksarkitektur/Modul 7/dhcp.pcap",
     "Netværksarkitektur/Modul 7/Besvarelse.md",
     "Computerarkitektur/Modul 5/serial_com_v3.py",
-    "Netværksarkitektur/Modul 7/Modul 7 - Netværksanalyse.md",
     "Netværksarkitektur/Modul 7/CSIK-network-analyse.pptx",
     "Netværksarkitektur/Modul 7",
     "Computerarkitektur/Modul 5/serial_com_v2.py",
@@ -196,7 +197,6 @@
     "Forretningsforståelse/Modul 11 - Risikoanalyse/FF Modul 11 Opgave 1.md",
     "Forretningsforståelse/Modul 11 - Risikoanalyse/FF Modul 11 - Hjemmeopgave.md",
     "Forretningsforståelse/Modul 11 - Risikoanalyse/1. Modul 11 - Risikoanalyse.md",
-    "Programmering/Modul 2/attachments/Opg 1.png",
     "Programmering/Modul 5/1. Modul 5 - Vektorer og tekst.md",
     "Programmering/Modul 2/Programmering M2 Opg 2.md",
     "Programmering/Modul 2/Programmering M2 Opg 1.md",
