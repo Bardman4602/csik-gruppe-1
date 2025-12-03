@@ -3,7 +3,9 @@ Programmet her bruger pygame til at lave et vindue, hvor man kan skrive med den 
 # Moduler
 Jeg har brugt et par moduler, så de skal også lige installeres først. skriv de her kommandoer i dit venv hvis det ikke virker:
 pip install PySerial
+
 pip install pygame
+
 python3 -m pip install pygame-textinput
 
 # Generel info
