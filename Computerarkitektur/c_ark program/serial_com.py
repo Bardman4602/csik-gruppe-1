@@ -46,19 +46,21 @@ clock = pygame.time.Clock()
 #caesar settings
 alph = " abcdefghijklmnopqrstuvwxyzæøå,.?1234567890 abcdefghijklmnopqrstuvwxyzæøå,.?1234567890"
 key = 0
-bla = []
-blå = []
+
+
 
 def scramble(user_input):
+    bla = []
     for letter in user_input:
-        scrambled_key = alph.index(letter) + key
+        scrambled_key = alph.index(letter.lower()) + key
         bla.append(alph[scrambled_key])
     scrambled = ''.join(bla)
     return scrambled
 
 def unscramble(user_input):
+    blå = []
     for letter in user_input:
-        unscrambled_key = alph.index(letter) - key
+        unscrambled_key = alph.index(letter.lower()) - key
         blå.append(alph[unscrambled_key])
     unscrambled = ''.join(blå)
     return unscrambled
@@ -118,7 +120,7 @@ while True:
             #if user presses enter, send input through usb port and clear textinput
             if event.type == pygame.KEYDOWN and event.key == pygame.K_RETURN:
                 caesar = scramble(textinput.value)
-                ser.write(f"{textinput.value}".encode("utf-8"))
+                ser.write(f"{caesar}".encode("utf-8"))
                 textinput.value = ''
     pygame.display.update()
     clock.tick(60)
