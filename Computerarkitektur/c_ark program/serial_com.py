@@ -30,12 +30,13 @@ textinput.font_object = font
 
 #misc. setting
 ext_text = ''
-password = b''
 password_entered = False
-pis = 'Skriv password (int fra 0-26):'
+pis = 'Skriv password (int fra 0-36):'
+counter = 0
+liste = ['det skulle være en integer fra 0-36', 'kan du læse?', 'bro', 'INTEGER. 0-36.', 'jeg gir op', '']
 
 # definer hvilken port, baudrate
-ser=serial.Serial('COM3',9600,timeout=1)
+ser=serial.Serial('COM4',9600,timeout=1)
 # DU SKAL ÆNDRE DET ↑ TIL DEN PORT DU BRUGER PÅ DIN PC (fx COM4, COM5 osv.), ELLERS VIRKER DET IKKE
 
 #tilfældigt pygame lort
@@ -43,7 +44,7 @@ clock = pygame.time.Clock()
 
 
 #caesar settings
-alph = " abcdefghijklmnopqrstuvwxyzæøå,.? abcdefghijklmnopqrstuvwxyzæøå,.?"
+alph = " abcdefghijklmnopqrstuvwxyzæøå,.?1234567890 abcdefghijklmnopqrstuvwxyzæøå,.?1234567890"
 key = 0
 bla = []
 blå = []
@@ -88,9 +89,17 @@ while True:
         for event in events:
             if event.type == pygame.KEYDOWN and event.key == pygame.K_RETURN:
                 if len(textinput.value) != 0:
-                    password = int(textinput.value)
-                    textinput.value = ''
-                    password_entered = True
+                    if textinput.value.isdigit() and 0 <= int(textinput.value) <= 36:
+                        key = int(textinput.value)
+                        textinput.value = ''
+                        password_entered = True
+                    else:
+                        textinput.value = ''
+                        pis = liste[counter]
+                        counter += 1
+                        if counter == 6:
+                            raise ValueError('Du gjorde programmet ked af det')
+                        
 
 
 
