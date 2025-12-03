@@ -35,7 +35,7 @@ password_entered = False
 pis = 'Skriv password (int fra 0-26):'
 
 # definer hvilken port, baudrate
-ser=serial.Serial('COM3',9600,timeout=1)
+ser=serial.Serial('COM5',9600,timeout=1)
 # DU SKAL ÆNDRE DET ↑ TIL DEN PORT DU BRUGER PÅ DIN PC (fx COM4, COM5 osv.), ELLERS VIRKER DET IKKE
 
 #tilfældigt pygame lort
