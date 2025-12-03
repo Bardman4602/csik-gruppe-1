@@ -1,7 +1,7 @@
 Programmet her bruger pygame til at lave et vindue, hvor man kan skrive med den anden pc der er forbundet.
 
 # Moduler
-Jeg har brugt et par moduler, så de skal også lige installeres først. Du **SKAL** køre de her kommandoer i dit virtual environment først:
+Jeg har brugt et par moduler, så de skal også lige installeres først. Du **skal** køre de her kommandoer i dit virtual environment først:
 
 pip install PySerial
 
