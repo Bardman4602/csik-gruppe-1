@@ -4,9 +4,14 @@ import pygame_textinput
 from serial.tools import list_ports
 
 
+# definer hvilken port, baudrate
+ser=serial.Serial('COM4',9600,timeout=1)
+# DU SKAL ÆNDRE DET ↑ TIL DEN PORT DU BRUGER PÅ DIN PC (fx COM4, COM5 osv.), ELLERS VIRKER DET IKKE
+
+
 ports = list_ports.comports()
 if ports == []:
-    raise ValueError('Du skal plugge usb dimsen ind (SEE LINE 39)')
+    raise ValueError('Du skal plugge usb dimsen ind (SEE LINE 9)')
 
 pygame.init()
 #screen
@@ -28,16 +33,14 @@ textinput = pygame_textinput.TextInputVisualizer()
 textinput.font_color = green
 textinput.font_object = font
 
-#misc. setting
+#key setting
 ext_text = ''
 password_entered = False
 pis = 'Skriv password (int fra 0-36):'
 counter = 0
 liste = ['det skulle være en integer fra 0-36', 'kan du læse?', 'bro', 'INTEGER. 0-36.', 'jeg gir op', '']
 
-# definer hvilken port, baudrate
-ser=serial.Serial('COM4',9600,timeout=1)
-# DU SKAL ÆNDRE DET ↑ TIL DEN PORT DU BRUGER PÅ DIN PC (fx COM4, COM5 osv.), ELLERS VIRKER DET IKKE
+
 
 #tilfældigt pygame lort
 clock = pygame.time.Clock()

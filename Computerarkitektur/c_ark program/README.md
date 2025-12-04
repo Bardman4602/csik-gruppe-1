@@ -17,7 +17,7 @@ Jeg bruger en Caesar Cipher, hvor man selv skal inputte hvilket tal programmet b
 Programmet prompter en efter et kodeord, som den bruger til at 'scramble' og 'unscramble' teksten.
 Begge computere skal skrive det samme kodeord, ellers bliver Caesar cipheren utydelig. As intended.
 
-På linje 39, skal man manuelt ændre hvilken usb port du har set usb-enheden ind i. Hvis det er port 3, skal du skrive 'COM3' der hvor jeg har markeret det.
+På linje 8, skal man manuelt ændre hvilken usb port du har set usb-enheden ind i. Hvis det er port 3, skal du skrive 'COM3' der hvor jeg har markeret det.
 
 Programmet virker uden en anden pc på den anden side. men det er fedest med en makker.
 
