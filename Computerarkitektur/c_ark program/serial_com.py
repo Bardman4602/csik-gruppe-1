@@ -48,7 +48,7 @@ clock = pygame.time.Clock()
 
 
 #caesar settings
-alph = " abcdefghijklmnopqrstuvwxyzæøå,.?1234567890 abcdefghijklmnopqrstuvwxyzæøå,.?1234567890"
+alph = " abcdefghijklmnopqrstuvwxyzæøå,.?!1234567890 abcdefghijklmnopqrstuvwxyzæøå,.?!1234567890"
 key = 0
 
 

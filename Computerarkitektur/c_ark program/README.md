@@ -19,6 +19,8 @@ Begge computere skal skrive det samme kodeord, ellers bliver Caesar cipheren uty
 
 På linje 8, skal man manuelt ændre hvilken usb port du har set usb-enheden ind i. Hvis det er port 3, skal du skrive 'COM3' der hvor jeg har markeret det.
 
+Det er kun specifikke characters der virker pga måden jeg har programmeret caesar cipheren. så ingen emojies eller hashtags
+
 Programmet virker uden en anden pc på den anden side. men det er fedest med en makker.
 
 Setuppet er lidt bøvlet, men det er det hele værd;) 
