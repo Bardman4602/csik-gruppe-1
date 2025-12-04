@@ -13,7 +13,9 @@ ports = list_ports.comports()
 if ports == []:
     raise ValueError('Du skal plugge usb dimsen ind (SEE LINE 9)')
 
+#initialisér pygame 
 pygame.init()
+
 #screen
 screen_width = 600
 screen_height = 200
@@ -39,7 +41,6 @@ password_entered = False
 pis = 'Skriv password (int fra 0-36):'
 counter = 0
 liste = ['det skulle være en integer fra 0-36', 'kan du læse?', 'bro', 'INTEGER. 0-36.', 'jeg gir op', '']
-
 
 
 #tilfældigt pygame lort
@@ -69,13 +70,13 @@ def unscramble(user_input):
     return unscrambled
 
 
-pos = (10,10)
+
 while True:
     events = pygame.event.get()
     for event in events:
         if event.type == pygame.QUIT:
             exit()
-
+    #fyld skærmen med en baggrundsfarve
     screen.fill((black))
 
     
@@ -93,12 +94,15 @@ while True:
         #skriv password ind
         for event in events:
             if event.type == pygame.KEYDOWN and event.key == pygame.K_RETURN:
+                #kør kun videre hvis brugeren har skrevet noget
                 if len(textinput.value) != 0:
+                    #accepter kun inputtet hvis det er en int imellem 0-36
                     if textinput.value.isdigit() and 0 <= int(textinput.value) <= 36:
                         key = int(textinput.value)
                         textinput.value = ''
                         password_entered = True
                     else:
+                        #ellers skriv en cheeky besked til brugeren
                         textinput.value = ''
                         pis = liste[counter]
                         counter += 1
@@ -117,13 +121,14 @@ while True:
             ext_text = unscramble(recieve_str)  
             
         please = font.render(ext_text, True, red)
-        screen.blit(please, pos)
+        screen.blit(please, (10,10))
 
         for event in events:
             #if user presses enter, send input through usb port and clear textinput
             if event.type == pygame.KEYDOWN and event.key == pygame.K_RETURN:
-                caesar = scramble(textinput.value)
-                ser.write(f"{caesar}".encode("utf-8"))
+                #tag teksten fra textinput og scramble det, send det videre til den anden pc.
+                ser.write(f"{scramble(textinput.value)}".encode("utf-8"))
                 textinput.value = ''
+    #refresh display (nødvendigt pygame lort)            
     pygame.display.update()
     clock.tick(60)
