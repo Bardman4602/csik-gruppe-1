@@ -48,7 +48,7 @@ alph = " abcdefghijklmnopqrstuvwxyzæøå,.?1234567890 abcdefghijklmnopqrstuvwxy
 key = 0
 
 
-
+#caesar cipher scramble
 def scramble(user_input):
     bla = []
     for letter in user_input:
@@ -56,7 +56,7 @@ def scramble(user_input):
         bla.append(alph[scrambled_key])
     scrambled = ''.join(bla)
     return scrambled
-
+#caesar cipher unscramble
 def unscramble(user_input):
     blå = []
     for letter in user_input:
@@ -82,7 +82,7 @@ while True:
     # Blit its surface onto the screen
     screen.blit(textinput.surface, (10, 160))
 
-    #password stuff
+    #prompt et password (hvilken key caesar cipheren bruger til at scramble) inden man kan sende beskeder
     if not password_entered:
         #password prompt
         password_prompt = font.render(pis, True, white)
@@ -100,11 +100,11 @@ while True:
                         pis = liste[counter]
                         counter += 1
                         if counter == 6:
-                            raise ValueError('Du gjorde programmet ked af det')
+                            raise ValueError('Programmet gav op')
                         
 
 
-
+#messaging 
 
     if password_entered:
     #recieve text
