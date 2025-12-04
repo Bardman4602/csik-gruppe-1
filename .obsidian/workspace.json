@@ -11,13 +11,30 @@
             "id": "f1dc80530417df6d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Forretningsforståelse/Modul 11 - Risikoanalyse/FF Modul 11 Opgave 3.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "FF Modul 11 Opgave 3"
+            }
+          },
+          {
+            "id": "a5c1def26ca37b04",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,8 +179,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "f1dc80530417df6d",
+  "active": "a5c1def26ca37b04",
   "lastOpenFiles": [
+    "Forretningsforståelse/Modul 11 - Risikoanalyse/vejledning_til_risikostyring-_nden_for_informationssikkerhed_2020.pdf",
     "Forretningsforståelse/Modul 3 - Processanalyse/~$Modul 3 Proces (CANVAS).pptx",
     "Programmering/Modul 2/attachments/Syntaks-træ.png",
     "Programmering/Modul 2/attachments/slides02.pdf",
@@ -186,7 +204,6 @@
     "Programmering/Modul 1/Imperativ Programmering 1.md",
     "Programmering/Modul 1/Codelabby profil link.md",
     "Programmering/Modul 5",
-    "Programmering/Modul 3",
     "Netværksarkitektur/Modul 6/1. Modul 6 - Lab Linux.md",
     "Netværksarkitektur/Modul 5/HH's Noter/Proxmox_login-realm.png",
     "Netværksarkitektur/Modul 5/HH's Noter/LAB 01 - RustDesk.md",
