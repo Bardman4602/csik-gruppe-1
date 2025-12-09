@@ -8,11 +8,11 @@
 
 ### 1.1 Hvordan virksomheden er ramt på CIA
 
-|CIA‑element|Hvordan EAAA Robotics er ramt|Konkrete eksempler|
-|---|---|---|
-|**Confidentiality (fortrolighed)**|Brudt – følsomme forretnings- og persondata er eksfiltreret og kan misbruges.|Angriberne eksfiltrerer ca. 35 GB data: CAD‑filer, AI‑modeller, kontrakter, fakturaer, kundelister og kontooplysninger.<br><br>Case EAAA FIN|
-|**Integrity (integritet)**|Undergravet – data og forretningsprocesser kan ikke længere stole på.|Falske fakturaer udsendes til to af virksomhedens største kunder. Ransomware ændrer (krypterer) data, så de ikke længere er i original tilstand.<br><br>Case EAAA FIN|
-|**Availability (tilgængelighed)**|Kraftigt ramt – kritiske systemer utilgængelige i flere dage, RTO/RPO massivt overskredet.|Hele netværket krypteres, produktionen står stille i 5 dage, og 10 dages data går tabt, selv backup er krypteret.|
+| CIA‑element                        | Hvordan EAAA Robotics er ramt                                                              | Konkrete eksempler                                                                                                                                |
+| ---------------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Confidentiality (fortrolighed)** | Brudt – følsomme forretnings- og persondata er eksfiltreret og kan misbruges.              | Angriberne eksfiltrerer ca. 35 GB data: CAD‑filer, AI‑modeller, kontrakter, fakturaer, kundelister og kontooplysninger.<br>                       |
+| **Integrity (integritet)**         | Undergravet – data og forretningsprocesser kan ikke længere stole på.                      | Falske fakturaer udsendes til to af virksomhedens største kunder. Ransomware ændrer (krypterer) data, så de ikke længere er i original tilstand.N |
+| **Availability (tilgængelighed)**  | Kraftigt ramt – kritiske systemer utilgængelige i flere dage, RTO/RPO massivt overskredet. | Hele netværket krypteres, produktionen står stille i 5 dage, og 10 dages data går tabt, selv backup er krypteret.                                 |
 
 **Supplering fra BIA‑data:**  
 BIA’en peger på, at _produktion af robotløsninger_ og _R&D_ er “meget kritiske” processer, og at _Dynamics 365_ (økonomi/ordrer) samt _M365_ (kommunikation) er centrale aktiver.
@@ -135,13 +135,13 @@ Virksomheden ligger samlet på **Tier 1 – Partial**:
 **Efter implementering af foreslåede tiltag:**  
 Målet er at løfte virksomheden til gennemsnitligt **Tier 2 – Risk Informed**, og på enkelte områder nærme sig **Tier 3 – Repeatable**.
 
-|NIST‑funktion|Før|Efter (målbillede)|Begrun­delse|
-|---|---|---|---|
-|**Identify** (aktiver, risici, governance)|Tier 1|Tier 2–3|BIA er etableret og udvides; formelle politikker og risikovurderinger bliver integreret i styringen.|
-|**Protect** (kontroller, IAM, awareness)|Tier 1|Tier 2–3|Udbredt MFA, netværkssegmentering, forbedret backup, awareness-program, opdaterede tekniske kontroller.|
-|**Detect** (overvågning og alarmer)|Tier 1|Tier 2|Central logopsamling og basale alarmer etableres; stadig udviklingsområde.|
-|**Respond** (incident response)|Tier 1|Tier 2|Simpel beredskabsplan og roller defineres; øvelser igangsættes, men endnu ikke fuldt indarbejdet.|
-|**Recover** (gendannelse og læring)|Tier 1|Tier 2–3|RTO/RPO anvendes til design af backup og gendannelsesprocedurer; regelmæssige restore‑tests og post‑incident reviews.<br><br>EAAA BIA data 271125|
+| NIST‑funktion                              | Før    | Efter (målbillede) | Begrun­delse                                                                                                          |
+| ------------------------------------------ | ------ | ------------------ | --------------------------------------------------------------------------------------------------------------------- |
+| **Identify** (aktiver, risici, governance) | Tier 1 | Tier 2–3           | BIA er etableret og udvides; formelle politikker og risikovurderinger bliver integreret i styringen.                  |
+| **Protect** (kontroller, IAM, awareness)   | Tier 1 | Tier 2–3           | Udbredt MFA, netværkssegmentering, forbedret backup, awareness-program, opdaterede tekniske kontroller.               |
+| **Detect** (overvågning og alarmer)        | Tier 1 | Tier 2             | Central logopsamling og basale alarmer etableres; stadig udviklingsområde.                                            |
+| **Respond** (incident response)            | Tier 1 | Tier 2             | Simpel beredskabsplan og roller defineres; øvelser igangsættes, men endnu ikke fuldt indarbejdet.                     |
+| **Recover** (gendannelse og læring)        | Tier 1 | Tier 2–3           | RTO/RPO anvendes til design af backup og gendannelsesprocedurer; regelmæssige restore‑tests og post‑incident reviews. |
 
 ---
 
