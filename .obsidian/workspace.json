@@ -8,16 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f1dc80530417df6d",
+            "id": "7d2f9726461472a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Forretningsforståelse/Modul 11 - Risikoanalyse/FF Modul 11 Opgave 3.md",
+=======
+                "file": "Computerarkitektur/c_ark program/README.md",
+>>>>>>> 697fa54da36362e61d6a6d984485a64023ceb1db
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "FF Modul 11 Opgave 3"
             }
           },
@@ -31,6 +36,9 @@
               },
               "icon": "lucide-book-up",
               "title": "Release Notes 1.10.3"
+=======
+              "title": "README"
+>>>>>>> 697fa54da36362e61d6a6d984485a64023ceb1db
             }
           }
         ],
@@ -179,6 +187,7 @@
       "bases:Create new base": false
     }
   },
+<<<<<<< HEAD
   "active": "a5c1def26ca37b04",
   "lastOpenFiles": [
     "Forretningsforståelse/Modul 11 - Risikoanalyse/vejledning_til_risikostyring-_nden_for_informationssikkerhed_2020.pdf",
@@ -191,41 +200,59 @@
     "Programmering/Modul 2/attachments/IMG20250911092653.jpg",
     "Programmering/Modul 5/vektor-kodeskabelon.pdf",
     "Programmering/Modul 5/slides05.pdf",
+=======
+  "active": "7d2f9726461472a0",
+  "lastOpenFiles": [
+    "Computerarkitektur/c_ark program/venv/Lib/site-packages/pyserial-3.5.dist-info/REQUESTED",
+    "Computerarkitektur/c_ark program/venv/Lib/site-packages/pyserial-3.5.dist-info/INSTALLER",
+    "Computerarkitektur/c_ark program/venv/Scripts/pyserial-ports.exe",
+    "Computerarkitektur/c_ark program/venv/Scripts/pyserial-miniterm.exe",
+    "Computerarkitektur/c_ark program/venv/Lib/site-packages/serial/__pycache__/win32.cpython-313.pyc",
+    "Computerarkitektur/c_ark program/venv/Lib/site-packages/serial/urlhandler/__pycache__/protocol_spy.cpython-313.pyc",
+    "Computerarkitektur/c_ark program/venv/Lib/site-packages/serial/urlhandler/__pycache__/protocol_socket.cpython-313.pyc",
+    "Computerarkitektur/c_ark program/venv/Lib/site-packages/serial/urlhandler/__pycache__/protocol_rfc2217.cpython-313.pyc",
+    "Computerarkitektur/c_ark program/venv/Lib/site-packages/serial/urlhandler/__pycache__/protocol_loop.cpython-313.pyc",
+    "Computerarkitektur/c_ark program/venv/Lib/site-packages/serial/urlhandler/__pycache__/protocol_hwgrep.cpython-313.pyc",
+    "Computerarkitektur/c_ark program/venv/Lib/site-packages/serial/urlhandler/__pycache__/protocol_cp2110.cpython-313.pyc",
+    "Computerarkitektur/c_ark program/venv/Lib/site-packages/pygame/tests/fixtures/fonts/u13079_PyGameMono-8.png",
+    "Computerarkitektur/c_ark program/venv/Lib/site-packages/pygame/tests/fixtures/fonts/A_PyGameMono-8.png",
+    "Computerarkitektur/c_ark program/venv/Lib/site-packages/pygame/examples/data/teal.svg",
+    "Computerarkitektur/c_ark program/venv/Lib/site-packages/pygame/examples/data/static.png",
+    "Computerarkitektur/c_ark program/venv/Lib/site-packages/pygame/examples/data/shot.gif",
+    "Computerarkitektur/c_ark program/venv/Lib/site-packages/pygame/examples/data/scarlet.webp",
+    "Computerarkitektur/c_ark program/venv/Lib/site-packages/pygame/examples/data/red.jpg",
+    "Computerarkitektur/c_ark program/venv/Lib/site-packages/pygame/examples/data/player1.gif",
+    "Computerarkitektur/c_ark program/venv/Lib/site-packages/pygame/examples/data/midikeys.png",
+    "Computerarkitektur/c_ark program/venv/Lib/site-packages/pygame/examples/data/liquid.bmp",
+    "Computerarkitektur/c_ark program/venv/Lib/site-packages/pip-25.2.dist-info/licenses/src/pip/_vendor/idna/LICENSE.md",
+    "Netværksarkitektur/Modul 7/Besvarelse.md",
+    "Netværksarkitektur/Modul 7/Opgaver.md",
+    "Netværksarkitektur/Modul 7/Modul 7 - Netværksanalyse.md",
+    "Computerarkitektur/Modul 5/Modul 5 - Seriel Kommunikation.md",
+    "Forretningsforståelse/Modul 11 - Risikoanalyse/FF Modul 11 Opgave 3.md",
+    "Forretningsforståelse/Modul 11 - Risikoanalyse/FF Modul 11 Opgave 2.md",
+    "Forretningsforståelse/Modul 11 - Risikoanalyse/FF Modul 11 Opgave 1.md",
+    "Forretningsforståelse/Modul 11 - Risikoanalyse/FF Modul 11 - Hjemmeopgave.md",
+    "Forretningsforståelse/Modul 11 - Risikoanalyse/1. Modul 11 - Risikoanalyse.md",
+>>>>>>> 697fa54da36362e61d6a6d984485a64023ceb1db
     "Programmering/Modul 5/1. Modul 5 - Vektorer og tekst.md",
-    "Programmering/Modul 3/slides03.pdf",
-    "Programmering/Modul 3/samarbejdsstrukturer03.pdf",
-    "Programmering/Modul 3/Programmering modul 3.md",
-    "Programmering/Modul 3/Gruppearbejde.md",
     "Programmering/Modul 2/Programmering M2 Opg 2.md",
     "Programmering/Modul 2/Programmering M2 Opg 1.md",
+    "Programmering/Modul 3/Gruppearbejde.md",
     "Programmering/Modul 2/Imperativ Programmering 2.md",
-    "Programmering/Modul 2/attachments",
-    "Programmering/Modul 1/slides01.pdf",
+    "Programmering/Modul 3/Programmering modul 3.md",
     "Programmering/Modul 1/Imperativ Programmering 1.md",
     "Programmering/Modul 1/Codelabby profil link.md",
+<<<<<<< HEAD
     "Programmering/Modul 5",
+=======
+>>>>>>> 697fa54da36362e61d6a6d984485a64023ceb1db
     "Netværksarkitektur/Modul 6/1. Modul 6 - Lab Linux.md",
-    "Netværksarkitektur/Modul 5/HH's Noter/Proxmox_login-realm.png",
     "Netværksarkitektur/Modul 5/HH's Noter/LAB 01 - RustDesk.md",
-    "Netværksarkitektur/Modul 5/HH's Noter/OpenVPN-icon_win11-dock.png",
     "Netværksarkitektur/Modul 5/HH's Noter/LAB 00 - VPN.md",
     "Netværksarkitektur/Modul 5/1. N-ark Modul 5 - Intro til lab.md",
-    "Netværksarkitektur/Modul 3 - Porte, protokoller og IPv4-adresser/attachments/Spørgsmål2.png",
-    "Netværksarkitektur/Modul 3 - Porte, protokoller og IPv4-adresser/attachments/Spørgsmål1.png",
-    "Netværksarkitektur/Modul 3 - Porte, protokoller og IPv4-adresser/attachments/Ping2.png",
-    "Netværksarkitektur/Modul 3 - Porte, protokoller og IPv4-adresser/attachments/PingNathan2.png",
     "Netværksarkitektur/Modul 3 - Porte, protokoller og IPv4-adresser/Modul 3 - Porte, Protokoller og IPv4 adresser.md",
     "Netværksarkitektur/Modul 3 - Porte, protokoller og IPv4-adresser/First Lab Opgave.md",
-    "Netværksarkitektur/Modul 2/Nøglebegreber til Kap 2 (Network topologies and types).md",
-    "Netværksarkitektur/Modul 2/Nøglebegreber til Kap 1 (OSI, TCP, IP).md",
-    "Netværksarkitektur/Modul 2/N-ark M2 RFC Opgave.md",
-    "Netværksarkitektur/Modul 2/Framing (data-link laget) (over-entusiastisk AI).md",
-    "Netværksarkitektur/Modul 2/Besvarelse  RFC opgave 1.2.md",
-    "Netværksarkitektur/Modul 2/1. M2 - Networking concepts.md",
-    "Netværksarkitektur/Modul 1/Opgave 2.md",
-    "Netværksarkitektur/Modul 1/Opgave 1.md",
-    "Netværksarkitektur/Modul 1/Modul 1 - Introduktion til faget.md",
-    "Forretningsforståelse/Modul 9 - Modenhedsanalyse/FF Modul 9 Opgave 2.md",
-    "Forretningsforståelse/Modul 9 - Modenhedsanalyse/FF Modul 9 Opgave 1.md"
+    "Netværksarkitektur/Modul 2/Nøglebegreber til Kap 2 (Network topologies and types).md"
   ]
 }
