@@ -14,14 +14,19 @@
               "type": "markdown",
               "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "file": "Forretningsforståelse/Modul 11 - Risikoanalyse/FF Modul 11 Opgave 3.md",
 =======
                 "file": "Computerarkitektur/c_ark program/README.md",
 >>>>>>> 697fa54da36362e61d6a6d984485a64023ceb1db
+=======
+                "file": "Computerarkitektur/Modul 7 - Hardware Hacking/Modul 7 - Hardware Hacking.md",
+>>>>>>> b127f0d2f70dec3930786d1724a58ba8860e5832
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
 <<<<<<< HEAD
               "title": "FF Modul 11 Opgave 3"
             }
@@ -39,10 +44,12 @@
 =======
               "title": "README"
 >>>>>>> 697fa54da36362e61d6a6d984485a64023ceb1db
+=======
+              "title": "Modul 7 - Hardware Hacking"
+>>>>>>> b127f0d2f70dec3930786d1724a58ba8860e5832
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,8 +195,13 @@
     }
   },
 <<<<<<< HEAD
+<<<<<<< HEAD
   "active": "a5c1def26ca37b04",
+=======
+  "active": "f1dc80530417df6d",
+>>>>>>> b127f0d2f70dec3930786d1724a58ba8860e5832
   "lastOpenFiles": [
+    "Forretningsforståelse/Modul 11 - Risikoanalyse/FF Modul 11 Opgave 3.md",
     "Forretningsforståelse/Modul 11 - Risikoanalyse/vejledning_til_risikostyring-_nden_for_informationssikkerhed_2020.pdf",
     "Forretningsforståelse/Modul 3 - Processanalyse/~$Modul 3 Proces (CANVAS).pptx",
     "Programmering/Modul 2/attachments/Syntaks-træ.png",
@@ -244,9 +256,12 @@
     "Programmering/Modul 1/Imperativ Programmering 1.md",
     "Programmering/Modul 1/Codelabby profil link.md",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "Programmering/Modul 5",
 =======
 >>>>>>> 697fa54da36362e61d6a6d984485a64023ceb1db
+=======
+>>>>>>> b127f0d2f70dec3930786d1724a58ba8860e5832
     "Netværksarkitektur/Modul 6/1. Modul 6 - Lab Linux.md",
     "Netværksarkitektur/Modul 5/HH's Noter/LAB 01 - RustDesk.md",
     "Netværksarkitektur/Modul 5/HH's Noter/LAB 00 - VPN.md",
