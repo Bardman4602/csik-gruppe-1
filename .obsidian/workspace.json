@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forretningsforståelse/Modul 11 - Risikoanalyse/FF Modul 11 Opgave 3.md",
+                "file": "Computerarkitektur/Modul 7 - Hardware Hacking/Modul 7 - Hardware Hacking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FF Modul 11 Opgave 3"
-            }
-          },
-          {
-            "id": "a5c1def26ca37b04",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "title": "Modul 7 - Hardware Hacking"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,8 +166,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "a5c1def26ca37b04",
+  "active": "f1dc80530417df6d",
   "lastOpenFiles": [
+    "Forretningsforståelse/Modul 11 - Risikoanalyse/FF Modul 11 Opgave 3.md",
     "Forretningsforståelse/Modul 11 - Risikoanalyse/vejledning_til_risikostyring-_nden_for_informationssikkerhed_2020.pdf",
     "Forretningsforståelse/Modul 3 - Processanalyse/~$Modul 3 Proces (CANVAS).pptx",
     "Programmering/Modul 2/attachments/Syntaks-træ.png",
@@ -203,7 +191,6 @@
     "Programmering/Modul 1/slides01.pdf",
     "Programmering/Modul 1/Imperativ Programmering 1.md",
     "Programmering/Modul 1/Codelabby profil link.md",
-    "Programmering/Modul 5",
     "Netværksarkitektur/Modul 6/1. Modul 6 - Lab Linux.md",
     "Netværksarkitektur/Modul 5/HH's Noter/Proxmox_login-realm.png",
     "Netværksarkitektur/Modul 5/HH's Noter/LAB 01 - RustDesk.md",

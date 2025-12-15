@@ -12,11 +12,11 @@ Vi skal have fingrene i følgende info fra en Linksys router:
 
 | "Flag"            | Resultat          |
 | ----------------- | ----------------- |
-| SSID              |                   |
+| SSID              | Kantine           |
 | MAC               | 58:EF:68:59:0D:DB |
-| Admin Password    |                   |
-| Wireless Password |                   |
-| Enhedsnavn        |                   |
+| Admin Password    | admin             |
+| Wireless Password | peterjepsen       |
+| Enhedsnavn        | E900              |
 
 ## Fremgangsmåde
 
@@ -66,3 +66,16 @@ cat /kcore
 ```
 
 I RealTerm trykker vi "Start Overwrite" og srkvier outputtet til en fil på vores lokale maskine.
+
+### Læsning af info fra capture.txt
+Vi åbnede capture.txt i notepad og søgte rundt efter de info vi leder efter. Dette gav os svarene på alle de spørgsmål vi søgte. Så vores endelige resultat er i tabellen her, som også findes øverst i dokumentet her:
+
+| "Flag"            | Resultat          |
+| ----------------- | ----------------- |
+| SSID              | Kantine           |
+| MAC               | 58:EF:68:59:0D:DB |
+| Admin Password    | admin             |
+| Wireless Password | peterjepsen       |
+| Enhedsnavn        | E900              |
+
+*Udført af Bastian, Yousef, Nathan og Jonas*
