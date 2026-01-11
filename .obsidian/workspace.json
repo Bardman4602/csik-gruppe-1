@@ -1,52 +1,24 @@
 {
   "main": {
-    "id": "975fd220f265d274",
+    "id": "e6082a82795838ef",
     "type": "split",
     "children": [
       {
-        "id": "b1f8b76087d796ec",
+        "id": "a4fd0ab9be1b33a0",
         "type": "tabs",
         "children": [
           {
-            "id": "7d2f9726461472a0",
+            "id": "62a2e2317100f1e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-                "file": "Forretningsforståelse/Modul 11 - Risikoanalyse/FF Modul 11 Opgave 3.md",
-=======
-                "file": "Computerarkitektur/c_ark program/README.md",
->>>>>>> 697fa54da36362e61d6a6d984485a64023ceb1db
-=======
-                "file": "Computerarkitektur/Modul 7 - Hardware Hacking/Modul 7 - Hardware Hacking.md",
->>>>>>> b127f0d2f70dec3930786d1724a58ba8860e5832
+                "file": "Forretningsforståelse/CASE - EAAA Robotics/Case - EAAA Robotics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< HEAD
-<<<<<<< HEAD
-              "title": "FF Modul 11 Opgave 3"
-            }
-          },
-          {
-            "id": "a5c1def26ca37b04",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
-=======
-              "title": "README"
->>>>>>> 697fa54da36362e61d6a6d984485a64023ceb1db
-=======
-              "title": "Modul 7 - Hardware Hacking"
->>>>>>> b127f0d2f70dec3930786d1724a58ba8860e5832
+              "title": "Case - EAAA Robotics"
             }
           }
         ]
@@ -55,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9ee4f8a0065e7569",
+    "id": "948127439e4ac699",
     "type": "split",
     "children": [
       {
-        "id": "e6f027446ffdc009",
+        "id": "a7fd22557e27afc6",
         "type": "tabs",
         "children": [
           {
-            "id": "c3a00344763da0a2",
+            "id": "17df8d6c2b74cba7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -76,7 +48,7 @@
             }
           },
           {
-            "id": "5256497d16d60b12",
+            "id": "b3908ffe55a8be30",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -93,7 +65,7 @@
             }
           },
           {
-            "id": "e3d22caf7e476833",
+            "id": "b39fdda8d3793379",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -109,19 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "11e096a027546d80",
+    "id": "18085df4fe82d161",
     "type": "split",
     "children": [
       {
-        "id": "93ace6d580a87069",
+        "id": "75c5f0105930cb8f",
         "type": "tabs",
         "children": [
           {
-            "id": "8e57bbf941528ee8",
+            "id": "9075caa2bfe4f995",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Forretningsforståelse/CASE - EAAA Robotics/Case - EAAA Robotics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,24 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Case - EAAA Robotics"
             }
           },
           {
-            "id": "e55fad91b7486fc7",
+            "id": "8898e0eff225e01b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Forretningsforståelse/CASE - EAAA Robotics/Case - EAAA Robotics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Case - EAAA Robotics"
             }
           },
           {
-            "id": "373feec5ecf6a5d1",
+            "id": "efbce9bcf1a25c3b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -163,17 +137,18 @@
             }
           },
           {
-            "id": "18dd60373637ed3e",
+            "id": "ad260030e4411bd7",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Forretningsforståelse/CASE - EAAA Robotics/Case - EAAA Robotics.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Case - EAAA Robotics"
             }
           }
         ]
@@ -194,80 +169,6 @@
       "bases:Create new base": false
     }
   },
-<<<<<<< HEAD
-<<<<<<< HEAD
-  "active": "a5c1def26ca37b04",
-=======
-  "active": "f1dc80530417df6d",
->>>>>>> b127f0d2f70dec3930786d1724a58ba8860e5832
-  "lastOpenFiles": [
-    "Forretningsforståelse/Modul 11 - Risikoanalyse/FF Modul 11 Opgave 3.md",
-    "Forretningsforståelse/Modul 11 - Risikoanalyse/vejledning_til_risikostyring-_nden_for_informationssikkerhed_2020.pdf",
-    "Forretningsforståelse/Modul 3 - Processanalyse/~$Modul 3 Proces (CANVAS).pptx",
-    "Programmering/Modul 2/attachments/Syntaks-træ.png",
-    "Programmering/Modul 2/attachments/slides02.pdf",
-    "Programmering/Modul 2/attachments/samarbejdsstrukturer02.pdf",
-    "Programmering/Modul 2/attachments/Pasted image 20250910170630.png",
-    "Programmering/Modul 2/attachments/Opg 1.png",
-    "Programmering/Modul 2/attachments/IMG20250911092653.jpg",
-    "Programmering/Modul 5/vektor-kodeskabelon.pdf",
-    "Programmering/Modul 5/slides05.pdf",
-=======
-  "active": "7d2f9726461472a0",
-  "lastOpenFiles": [
-    "Computerarkitektur/c_ark program/venv/Lib/site-packages/pyserial-3.5.dist-info/REQUESTED",
-    "Computerarkitektur/c_ark program/venv/Lib/site-packages/pyserial-3.5.dist-info/INSTALLER",
-    "Computerarkitektur/c_ark program/venv/Scripts/pyserial-ports.exe",
-    "Computerarkitektur/c_ark program/venv/Scripts/pyserial-miniterm.exe",
-    "Computerarkitektur/c_ark program/venv/Lib/site-packages/serial/__pycache__/win32.cpython-313.pyc",
-    "Computerarkitektur/c_ark program/venv/Lib/site-packages/serial/urlhandler/__pycache__/protocol_spy.cpython-313.pyc",
-    "Computerarkitektur/c_ark program/venv/Lib/site-packages/serial/urlhandler/__pycache__/protocol_socket.cpython-313.pyc",
-    "Computerarkitektur/c_ark program/venv/Lib/site-packages/serial/urlhandler/__pycache__/protocol_rfc2217.cpython-313.pyc",
-    "Computerarkitektur/c_ark program/venv/Lib/site-packages/serial/urlhandler/__pycache__/protocol_loop.cpython-313.pyc",
-    "Computerarkitektur/c_ark program/venv/Lib/site-packages/serial/urlhandler/__pycache__/protocol_hwgrep.cpython-313.pyc",
-    "Computerarkitektur/c_ark program/venv/Lib/site-packages/serial/urlhandler/__pycache__/protocol_cp2110.cpython-313.pyc",
-    "Computerarkitektur/c_ark program/venv/Lib/site-packages/pygame/tests/fixtures/fonts/u13079_PyGameMono-8.png",
-    "Computerarkitektur/c_ark program/venv/Lib/site-packages/pygame/tests/fixtures/fonts/A_PyGameMono-8.png",
-    "Computerarkitektur/c_ark program/venv/Lib/site-packages/pygame/examples/data/teal.svg",
-    "Computerarkitektur/c_ark program/venv/Lib/site-packages/pygame/examples/data/static.png",
-    "Computerarkitektur/c_ark program/venv/Lib/site-packages/pygame/examples/data/shot.gif",
-    "Computerarkitektur/c_ark program/venv/Lib/site-packages/pygame/examples/data/scarlet.webp",
-    "Computerarkitektur/c_ark program/venv/Lib/site-packages/pygame/examples/data/red.jpg",
-    "Computerarkitektur/c_ark program/venv/Lib/site-packages/pygame/examples/data/player1.gif",
-    "Computerarkitektur/c_ark program/venv/Lib/site-packages/pygame/examples/data/midikeys.png",
-    "Computerarkitektur/c_ark program/venv/Lib/site-packages/pygame/examples/data/liquid.bmp",
-    "Computerarkitektur/c_ark program/venv/Lib/site-packages/pip-25.2.dist-info/licenses/src/pip/_vendor/idna/LICENSE.md",
-    "Netværksarkitektur/Modul 7/Besvarelse.md",
-    "Netværksarkitektur/Modul 7/Opgaver.md",
-    "Netværksarkitektur/Modul 7/Modul 7 - Netværksanalyse.md",
-    "Computerarkitektur/Modul 5/Modul 5 - Seriel Kommunikation.md",
-    "Forretningsforståelse/Modul 11 - Risikoanalyse/FF Modul 11 Opgave 3.md",
-    "Forretningsforståelse/Modul 11 - Risikoanalyse/FF Modul 11 Opgave 2.md",
-    "Forretningsforståelse/Modul 11 - Risikoanalyse/FF Modul 11 Opgave 1.md",
-    "Forretningsforståelse/Modul 11 - Risikoanalyse/FF Modul 11 - Hjemmeopgave.md",
-    "Forretningsforståelse/Modul 11 - Risikoanalyse/1. Modul 11 - Risikoanalyse.md",
->>>>>>> 697fa54da36362e61d6a6d984485a64023ceb1db
-    "Programmering/Modul 5/1. Modul 5 - Vektorer og tekst.md",
-    "Programmering/Modul 2/Programmering M2 Opg 2.md",
-    "Programmering/Modul 2/Programmering M2 Opg 1.md",
-    "Programmering/Modul 3/Gruppearbejde.md",
-    "Programmering/Modul 2/Imperativ Programmering 2.md",
-    "Programmering/Modul 3/Programmering modul 3.md",
-    "Programmering/Modul 1/Imperativ Programmering 1.md",
-    "Programmering/Modul 1/Codelabby profil link.md",
-<<<<<<< HEAD
-<<<<<<< HEAD
-    "Programmering/Modul 5",
-=======
->>>>>>> 697fa54da36362e61d6a6d984485a64023ceb1db
-=======
->>>>>>> b127f0d2f70dec3930786d1724a58ba8860e5832
-    "Netværksarkitektur/Modul 6/1. Modul 6 - Lab Linux.md",
-    "Netværksarkitektur/Modul 5/HH's Noter/LAB 01 - RustDesk.md",
-    "Netværksarkitektur/Modul 5/HH's Noter/LAB 00 - VPN.md",
-    "Netværksarkitektur/Modul 5/1. N-ark Modul 5 - Intro til lab.md",
-    "Netværksarkitektur/Modul 3 - Porte, protokoller og IPv4-adresser/Modul 3 - Porte, Protokoller og IPv4 adresser.md",
-    "Netværksarkitektur/Modul 3 - Porte, protokoller og IPv4-adresser/First Lab Opgave.md",
-    "Netværksarkitektur/Modul 2/Nøglebegreber til Kap 2 (Network topologies and types).md"
-  ]
+  "active": "62a2e2317100f1e4",
+  "lastOpenFiles": []
 }
